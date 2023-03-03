@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/419b0897a1f2dddcb5ffe.jpg" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/419b0897a1f2dddcb5ffe.jpg" align="right" width="250" height="250"/>
 
 # Sandy Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
