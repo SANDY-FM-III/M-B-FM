@@ -73,19 +73,17 @@
         "value": "https://github.com/SANDY-FM-III/M-B-FM",
         "required": true
       }, 
-       " SUPPORT_GROUP: {
-        "description": "Fill Your Support Group Id", 
-        " value : "", 
-        "required": false
+      "SUPPORT_GROUP": {
+      "description": "Fill Your Support Group Id", 
+      " value" : "-1001864401531", 
+      "required": false
         
         },
       "SUPPORT_CHANNEL": {
-
-       "description": "Upstream Repo's Branch Name",
-
-        "value": "master",
-
-        "required": true
+       "description": "Main Channel Id",
+       "value": "-1001863639023",
+        "required": false
+          
       },
       "UPSTREAM_BRANCH": {
         "description": "Upstream Repo's Branch Name",
