@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "20612439",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "6713c32d1216016b3d81efac3cdcdfba",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -40,17 +40,17 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "Sandy Music",
+        "value": "SANDY",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "1960614875 5444689400",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BQCvp841zXrsIJT9jO_Nxt9pno6O0HhApj-TrBK5REGoAD7eQyiRDLbrUVxqi5yHxnZaDdZYnFb3c8zloyZLP7hIgZLy2wR4Aleqht2RTNGJ0WSX1vHMtCWmaLeYOZDXq1wVy4oucNKpnFnjkrgcu-_iI_TN9eW6HmpQ6R7-oXd8-Ymf7DHietONopOBY2X_LwIdCT7qGry_HcFWa2qnN3c4Bejz1XqV4Kw7qgHvEPhZ6MPRp-uhv5BcXGBWpWc-nnBsnJ0DLWwFb64vaVnbpe6nO1KfXIAnFmFg1ZNdM_LGZo7ZKGnD_fd9Ok1F50fgk8qYgYwLvDLkYnmKWIqCZKGOAAAAAUSHXfgA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -65,7 +65,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1001710509585",
         "required": true
       },
       "UPSTREAM_REPO": {
