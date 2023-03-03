@@ -40,7 +40,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "Sandy Music",
         "required": true
       },
       "OWNER_ID": {
@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/TeamYukki/YukkiMusicBot",
+        "value": "https://github.com/SANDY-FM-III/M-B-FM",
         "required": true
       },
       "UPSTREAM_BRANCH": {
