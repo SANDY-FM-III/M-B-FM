@@ -72,6 +72,20 @@
         "description": "If you dont know this, Leave as it is",
         "value": "https://github.com/SANDY-FM-III/M-B-FM",
         "required": true
+      }, 
+       " SUPPORT_GROUP: {
+        "description": "Fill Your Support Group Id", 
+        " value : "", 
+        "required": false
+        
+        },
+      "SUPPORT_CHANNEL": {
+
+       "description": "Upstream Repo's Branch Name",
+
+        "value": "master",
+
+        "required": true
       },
       "UPSTREAM_BRANCH": {
         "description": "Upstream Repo's Branch Name",
