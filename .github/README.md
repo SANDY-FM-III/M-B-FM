@@ -29,6 +29,11 @@ We have temporarily disabled the deployment for  all these cloud service platfor
 
 Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
 
+### 💜 Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/)
+
+<br>
 
 # 🏷 Support / Assistance
 
